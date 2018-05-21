@@ -24,7 +24,6 @@ $ sudo chmod +x /usr/local/bin/docker-compose
      ``` 
      $ docker-compose -f php5.yml up 
      ```
-- 
 
 - When you are done using php7 make sure you stop it with 
     ````
