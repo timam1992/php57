@@ -1,11 +1,10 @@
 <html>
 
     <head>
-        <title>php57</title>
+        <title>php57 | Hello World</title>
     </head>
 
     <body>
-        <p>Hello World</p>
         <?php phpinfo(); ?>
     </body>
 
