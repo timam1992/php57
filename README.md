@@ -22,12 +22,12 @@ $ sudo chmod +x /usr/local/bin/docker-compose
 
 - Run your project with php7
      ``` 
-     $ docker-compose -f php5.yml up 
+     $ docker-compose -f php7.yml up 
      ```
 
 - When you are done using php7 make sure you stop it with 
     ````
-    docker-compose -f php57.yml down 
+    docker-compose -f php7.yml down 
     ````
 
 
